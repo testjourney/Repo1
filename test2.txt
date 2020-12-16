@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0020-F937
+
+ Directory of C:\MyGitProject
+
+16-12-2020  12:44    <DIR>          .
+16-12-2020  12:44    <DIR>          ..
+16-12-2020  10:37               378 index.html
+16-12-2020  10:34                 8 test1.txt
+16-12-2020  12:44                 0 test2.txt
+               3 File(s)            386 bytes
+               2 Dir(s)   6,929,969,152 bytes free
