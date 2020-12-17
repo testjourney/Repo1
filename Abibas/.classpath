@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/rest-assured-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/rest-assured-4.1.2-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Selenium/json-simple-1.1.jar/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
