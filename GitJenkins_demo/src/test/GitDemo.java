@@ -9,7 +9,7 @@ public class GitDemo {
     	 System.out.println(i);
     	 System.out.println("hello");
     	 System.out.println("Hello World");
-    	 System.out.println("Hi");
+    	
      }
 	}
 
